@@ -12,3 +12,7 @@ Steps To Run program:
 1.Run the main file after installing all the requirements given inside (Python3 m.py)
 
 
+
+CSS Part of this program is shamelessly copyed from https://www.thapatechnical.com/
+
+
